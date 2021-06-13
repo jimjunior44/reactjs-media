@@ -44,7 +44,7 @@
 		"@babel/preset-react": "^7.12.10",
 		"@rollup/plugin-babel": "^5.2.2",
 		"@rollup/plugin-commonjs": "^17.0.0",
-		"babel-plugin-inline-react-svg": "^1.1.2",
+		"babel-plugin-inline-react-svg": "^2.0.1",
 		"rollup-plugin-babel": "^4.4.0",
 		"rollup-plugin-sourcemaps": "^0.6.3",
 		"rollup-plugin-styles": "^3.12.2",
